@@ -3,4 +3,9 @@
     <color name="colorPrimary">#2C273C</color>
     <color name="colorPrimaryDark">#1F1C26</color>
     <color name="colorAccent">#CE2A5E</color>
+    <color name="solidCircle">#FFFFFF</color>
+    <color name="colorGreen">#FF669900</color>
+    <color name="colorButton">#844a29</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBrown">#f7b141</color>
 </resources>
