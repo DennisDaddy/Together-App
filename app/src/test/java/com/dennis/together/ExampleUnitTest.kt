@@ -1,4 +1,4 @@
-package com.dennis.information
+package com.dennis.together
 
 import org.junit.Test
 
